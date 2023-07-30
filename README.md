@@ -1,7 +1,13 @@
 # TruthBeTold
-TruthBeTold is a high-school student organization devoted to designing an algorithm that can combat misinformation online. Through this Github, we hope to present our approach and what work we believe still needs to be done. 
+![image](https://github.com/dsnsgithub/truthBeTold/assets/48170013/a2be1f0b-2afa-4912-91f0-fb41f0caf4db)
+
+# Disclaimer:
+This is a fork of the TruthBeTold repo, a project that I worked on as a web developer. I am currently re-hosting a replica on https://truthbetold.dsns.dev.
 
 # Approach:
+
+TruthBeTold is a high-school student organization devoted to designing an algorithm that can combat misinformation online. Through this Github, we hope to present our approach and what work we believe still needs to be done. 
+
 Our approach consists of understanding a given article as completely as possible and then trying to deduce veracity from that. This consists of looking at an article's sentiment, finding the author/publisher's bio (if one exists), checking for recency of information, finding supporting material in other articles, and many more. Taken and processed simultaneously in seperate 'feature-functions', this information represents our algorithm's comprehensive understanding of an article, which can then be compared to other articles like that to predict credibility overall. To minimize any aspects of an article that might get overlooked, we're looking to expand the range and capability of our feature-functions in the coming months.
 
 ## The Feature Functions
