@@ -2,7 +2,7 @@
 ![image](https://github.com/dsnsgithub/truthBeTold/assets/48170013/a2be1f0b-2afa-4912-91f0-fb41f0caf4db)
 
 # Disclaimer:
-This is a fork of the TruthBeTold repo, a project that I worked on as a web developer. I am currently re-hosting a replica on https://truthbetold.dsns.dev.
+This is a fork of the TruthBeTold repo, a project that I worked on as a web developer. I am currently hosting a replica on https://truthbetold.dsns.dev.
 
 # Approach:
 
